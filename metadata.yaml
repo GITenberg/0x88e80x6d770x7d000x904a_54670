@@ -1,0 +1,25 @@
+_repo: 0x88e80x6d770x7d000x904a_54670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yu, Yonghe
+    alias: 郁永河
+    birthdate: 1645
+    gutenberg_agent_id: '47986'
+    url: http://www.gutenberg.org/2009/agents/47986
+    wikipedia: https://en.wikipedia.org/wiki/Yu_Yonghe
+description: ''
+gutenberg_issued: '2017-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54670'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taiwan -- Description and travel'
+- !lcsh 'Taiwan -- History -- To 1895'
+- GITenberg
+title: 裨海紀遊
+url: http://www.gutenberg.org/ebooks/54670
